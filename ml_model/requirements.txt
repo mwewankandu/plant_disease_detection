@@ -1,0 +1,9 @@
+# ml_model/requirements.txt
+tensorflow
+numpy
+matplotlib
+pillow
+opencv-python
+scikit-learn
+flask
+flask-cors
