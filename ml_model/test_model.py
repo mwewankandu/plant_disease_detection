@@ -139,7 +139,6 @@ class DiseasePredictor:
 def test_with_sample():
     predictor = DiseasePredictor()
 
-    # 🔴 CHANGE THIS LINE ONLY 🔴
     test_image = r"C:\Users\User\Music\plant_disease_detection\ml_model\test_sample.jpg"
 
     try:
